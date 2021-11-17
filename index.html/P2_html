@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<html>
+    <head>
+        <div>
+        <title>Booki Mockup</title>
+        <p>Accomidation<br>Activites</p>
+        </div>
+    </head>
+
+    <body>
+<h3>Find a place for your dream location</h3>
+Downtown or in nature
+<em>Marsille,France
+    <div>
+        <ul>
+            Filters
+            <li>Low cost</li>
+            <li>Family-friendly</li>
+            <li>Romantic</li>
+            <li>Pets allowed</li>
+
+        </ul>
+    </div>
+    <div>
+        more than 500 accomadtions are avalible in this city
+    </div>
+    <div>
+        <h3>Accomadations in Marselle</h3>
+        <ul>
+            <li>Auberge la Cannebiere</li>
+            <li>Hotel du port</li>
+            <li>Les mouettes Hotel</li>
+            <li>Hotel de la mer</li>
+            <li>Auberge Le Panier</li>
+            <li>Hotel chez Amina</li>
+        </ul>
+        <h4>Show More</h4>
+    </div>
+    <div>
+        <h3>Most Popular</h3>
+        <ul>
+            <li>Morning Sun Hotel</li>
+            <li>Au coer de l'eau Bed and Breakfast</li>
+            <li>Tout bleu et Blanc Hotel</li>
+        </ul>
+    </div>
+    <div>
+        <h3>Activites in Marseille</h3>
+        <ul>
+            <li>Old Port</li>
+            <li>Pomegues Fort</li>
+            <li>Frioul Island</li>
+            <li>Calanques Natonal Park</li>
+            <li>Notre-Dame-de-la-Garde</li>
+            <li>Longchamp Park</li>
+        </ul>
+    </div>
+</body>
+<footer>
+    <h4>About</h4>
+    <ul>
+        <li>Site Map</li>
+        <li>General Terms and Conditions</li>
+        <li>Data and Privacy</li>
+    </ul>
+    <h4>Our Accomadations</h4>
+        <ul>
+            <li>Quality Assessment</li>
+            <li>You have a Hotel?</li>
+        </ul>
+        <h4>Assistance</h4>
+        <ul>
+            <li>Help Desk</li>
+            <li>Contact Us</li>
+        </ul>
+</footer>
+</html>
+
+#
